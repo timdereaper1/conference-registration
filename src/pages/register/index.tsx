@@ -82,7 +82,7 @@ export default function RegisterParticipant() {
                     <img src={DesignerGirl} alt="illustration" className="w-60" />
                 </div>
                 <form
-                    className="flex h-full basis-8/12 flex-col justify-center gap-4 bg-white px-20 py-20"
+                    className="flex h-full basis-8/12 flex-col justify-center gap-4 bg-white p-20"
                     onSubmit={form.handleSubmit}
                 >
                     <header className="flex items-center gap-4 pb-4">
@@ -96,7 +96,8 @@ export default function RegisterParticipant() {
                                 Participant Registration Form
                             </h1>
                             <p className="text-sm text-dark">
-                                Enter the participant's information to register for the conference
+                                Enter the participant&apos;s information to register for the
+                                conference
                             </p>
                         </div>
                     </header>

@@ -45,7 +45,7 @@ export default function TextField({
                 name={name}
                 id={name}
                 required={required}
-                className="w-full rounded border border-solid border-primary-50 px-2 py-2 outline-none placeholder:text-dark-50 focus:border-primary group-data-[inline=true]/textfield:py-1"
+                className="w-full rounded border border-solid border-primary-50 p-2 outline-none placeholder:text-dark-50 focus:border-primary group-data-[inline=true]/textfield:py-1"
                 min={min}
             />
         </label>

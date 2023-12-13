@@ -68,7 +68,7 @@ export const PARTICIPANTS_COLUMNS = [
                         <div className="absolute left-0 top-0 z-20 hidden rounded bg-white shadow-md group-hover:block">
                             <button
                                 onClick={handleParticipantDeletion}
-                                className="flex min-w-max items-center px-2 py-2 text-sm"
+                                className="flex min-w-max items-center p-2 text-sm"
                             >
                                 <span className="icon-[heroicons--trash] text-xl text-red-500"></span>
                                 Delete Participant

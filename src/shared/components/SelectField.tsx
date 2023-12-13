@@ -40,7 +40,7 @@ export default function SelectField({
                 id={name}
                 required={required}
                 value={value}
-                className="w-full rounded border border-solid border-primary-50 px-2 py-2 text-xs outline-none placeholder:text-dark-50 focus:border-primary group-data-[inline=true]/selectField:py-1"
+                className="w-full rounded border border-solid border-primary-50 p-2 text-xs outline-none placeholder:text-dark-50 focus:border-primary group-data-[inline=true]/selectField:py-1"
             >
                 {children}
             </select>
