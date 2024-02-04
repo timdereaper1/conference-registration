@@ -1,6 +1,5 @@
 {
     "cSpell.words": ["clsx", "Formik", "heroicons", "localforage", "tanstack"],
     "css.customData": [".vscode/tailwind.json"],
-    "tailwindCSS.experimental.classRegex": [["clsx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]],
-    "editor.inlayHints.enabled": "off"
+    "tailwindCSS.experimental.classRegex": [["clsx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]]
 }
